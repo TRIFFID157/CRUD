@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728650088 source:c:\users\user\desktop\c++code\debuggingcrud\main.cpp
+	<iostream>
+	<map>
+	<regex>
+	<string>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
