@@ -1,8 +1,1 @@
-id: 4470
-date: 23235413
-type: Strength Training
-duration: 2313
-successful_reps: 5313
-sets: 231
-reps_per_set: 23
 
